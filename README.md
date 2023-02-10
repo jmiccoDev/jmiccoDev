@@ -18,3 +18,5 @@ There are some of **my infos** that it could help you understand **who i am!**
 
 ###### 👤 **Telegram:** @jmicco<br>👤 **Discord Tag:** jmicco#9839
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmicco-dev&show_icons=true&theme=dark)
+
