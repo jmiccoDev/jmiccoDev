@@ -14,7 +14,7 @@ There are some of **my infos** that it could help you understand **who i am!**
 - 🔗 **Discord Server:** [https://discord.gg/VsQnKBK8R7](https://discord.gg/VsQnKBK8R7)
 - 🔗 **Twitch Channel:** [https://www.twitch.tv/jmicco_](https://www.twitch.tv/jmicco_)
 - 🔗 **Youtube Channel:** [https://www.youtube.com/channel/UCo_nfLsO5r0wntre2IxLF0g](https://www.youtube.com/channel/UCo_nfLsO5r0wntre2IxLF0g)
-- 🔗 **Twitter:** [https://twitter.com/dev_jmicco](https://twitter.com/dev_jmicco)
+- 🔗 **Twitter:** [https://twitter.com/dev_jmicco](https://twitter.com/jmiccoDev)
 
 ###### 👤 **Telegram:** @jmicco<br>👤 **Discord Tag:** jmicco#9839
 
