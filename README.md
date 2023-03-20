@@ -5,8 +5,8 @@ There are some of **my infos** that it could help you understand **who i am!**
 - 🎂 Age: 16.11 Years Old<br>
 - 🌍 Nationality: Italy<br>
 - 👀 Profession: Student & Web Developer<br>
-- 📃 Languages: HTML, CSS, C++, Java, JavaScripts, .lua<br>
-- ✨ Others Hobby: Graphic Designer, Twitch Streamer
+- 📃 Languages: HTML & CSS, C++, Java, JavaScripts, TypeScripts, .lua<br>
+- ✨ Other Hobbys: Graphic Designer, Streaming
 
 ##### 📝 Certified CISCO Network Academy <br>🗣️ Knowing Languages: English B2<br>
 
