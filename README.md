@@ -8,7 +8,7 @@ There are some of **my infos** that it could help you understand **who i am!**
 - 📃 Languages: HTML & CSS, C++, Java, JavaScripts, TypeScripts, .lua<br>
 - ✨ Other Hobbys: Graphic Designer, Streaming
 
-##### 📝 Certified CISCO Network Academy <br>🗣️ Knowing Languages: English B2<br>
+##### 📝 Certified CISCO Network Academy <br>🗣️
 
 ### **Some Contacts**
 - 🔗 **Discord Server:** [https://discord.gg/VsQnKBK8R7](https://discord.gg/VsQnKBK8R7)
