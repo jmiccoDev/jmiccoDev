@@ -1,12 +1,12 @@
 ## 👋🏼 Hey! I'm Mirko!
 
-There are some of **my infos** that it could help you understand **who i am!**
+There is some of **my info** that could help you understand **who I am!**
 
 - 🎂 Age: 17 Years Old<br>
 - 🌍 Nationality: Italy<br>
 - 👀 Profession: Student & Web Developer<br>
 - 📃 Languages: HTML & CSS, C++, Java, JavaScripts, TypeScripts, .lua<br>
-- ✨ Other Hobbys: Graphic Designer, Streaming
+- ✨ Other Hobbies: Graphic Designer, Streaming
 
 ##### 📝 Certified CISCO Network Academy <br>🗣️
 
