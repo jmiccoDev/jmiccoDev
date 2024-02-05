@@ -1,23 +1,32 @@
-## 👋🏼 Hey! I'm Mirko!
+# 👋🏼 Hey there! I'm Mirko!
 
-There is some of **my info** that could help you understand **who I am!**
+Welcome to my GitHub profile! Here's some information about me:
 
-- 🎂 Age: 17 Years Old<br>
-- 🌍 Nationality: Italy<br>
-- 👀 Profession: Student & Web Developer<br>
-- 📃 Languages: HTML & CSS, C++, Java, JavaScripts, TypeScripts, .lua<br>
+- 🎂 Age: 17.11 Years Old
+- 🌍 Nationality: Italy
+- 👀 Profession: Student & Web Developer
+- 📃 Languages: HTML & CSS, C++, Java, JavaScript, TypeScript, .lua
 - ✨ Other Hobbies: Graphic Designer, Streaming
 
-##### 📝 Certified CISCO Network Academy <br>🗣️
+## 📚 Education and Certifications
 
-### **Some Contacts**
-- 🔗 **Discord Server:** [https://discord.gg/VsQnKBK8R7](https://discord.gg/VsQnKBK8R7)
-- 🔗 **Twitch Channel:** [https://www.twitch.tv/jmicco_](https://www.twitch.tv/jmicco_)
-- 🔗 **Youtube Channel:** [https://www.youtube.com/channel/UCo_nfLsO5r0wntre2IxLF0g](https://www.youtube.com/channel/UCo_nfLsO5r0wntre2IxLF0g)
-- 🔗 **Twitter:** [https://twitter.com/dev_jmicco](https://twitter.com/jmiccoDev)
+- 📝 Certified CISCO Network Academy
+  - IT Essential
+  - CCNA Routing and Switching: Introduction to Networks
+  - CCNAv7: Switching, Routing, and Wireless Essential
 
-###### 👤 **Telegram:** @jmicco<br>👤 **Discord Tag:** jmicco#0001
+## 🌐 Connect with Me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmiccoDev&show_icons=true&theme=dark)
-[![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmiccoDev&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/jmicco-dev)
+- 🔗 **Discord Server:** [Join my Discord Community](https://discord.gg/VsQnKBK8R7)
+- 🔗 **Twitch Channel:** [Watch me live on Twitch](https://www.twitch.tv/jmicco_)
+- 🔗 **YouTube Channel:** [Check out my videos on YouTube](https://www.youtube.com/channel/UCo_nfLsO5r0wntre2IxLF0g)
+- 🔗 **Twitter:** [Follow me on Twitter](https://twitter.com/dev_jmicco)
 
+- 👤 **Telegram:** [@jmicco](https://t.me/jmicco)
+- 👤 **Discord Tag:** jmicco#0001
+
+## 📊 GitHub Stats
+
+![Mirko's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmiccoDev&show_icons=true&theme=dark)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmiccoDev&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/jmicco-dev)
