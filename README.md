@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here's some information about me:
 
-- 🎂 Age: 17 Years Old
+- 🎂 Age: 18 Years Old
 - 🌍 Nationality: Italy
 - 👀 Profession: Student & Web Developer
 - 📃 Languages: HTML & CSS, C++, Java, JavaScript, TypeScript, .lua
