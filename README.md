@@ -32,6 +32,5 @@ Welcome to my GitHub profile! Here's some information about me:
 
 ## 📊 GitHub Stats
 
-![Mirko's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmiccoDev&show_icons=true&theme=dark)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmiccoDev&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/jmicco-dev)
+<img src="https://myreadme.vercel.app/api/embed/jmiccoDev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
