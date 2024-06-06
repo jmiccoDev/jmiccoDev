@@ -33,4 +33,3 @@ Welcome to my GitHub profile! Here's some information about me:
 ## 📊 GitHub Stats
 
 <img src="https://myreadme.vercel.app/api/embed/jmiccoDev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
