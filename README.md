@@ -52,11 +52,11 @@
 
 <div align="center">
 
-![jmiccoDev's Stats](https://github-readme-stats.vercel.app/api?username=jmiccoDev&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![jmiccoDev's Stats](https://github-readme-stats.vercel.app/api?username=jmiccoDev&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![jmiccoDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmiccoDev&theme=radical&hide_border=true)
+![jmiccoDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmiccoDev&theme=dark&hide_border=true)
 
-![jmiccoDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmiccoDev&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![jmiccoDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmiccoDev&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
